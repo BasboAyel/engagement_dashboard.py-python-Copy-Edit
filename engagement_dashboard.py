@@ -35,16 +35,4 @@ plt.show()
 markdown
 Copy
 Edit
-# Engagement Analytics Dashboard
 
-This project simulates article performance at a student newspaper and ranks content based on engagement. It visualizes which articles resonate most using a custom scoring metric.
-
-## Features
-- Synthetic dataset with article views, shares, and read time
-- Calculates engagement score using a weighted formula
-- Visualizes top-performing content with a horizontal bar chart
-
-## Tools Used
-- Python
-- pandas
-- matplotlib
